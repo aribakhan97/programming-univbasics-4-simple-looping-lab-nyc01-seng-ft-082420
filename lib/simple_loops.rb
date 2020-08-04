@@ -1,6 +1,6 @@
-def loop_message_five_times(string)
-  count = 5
-  while count < loop_message_five_times.length
+def loop_message_five_times(message)
+  count = 0
+  while count < 5
     count += 1
   end
 end
